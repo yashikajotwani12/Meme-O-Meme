@@ -1,38 +1,51 @@
 .App {
-  text-align: center;
+  background-color: #5800FF;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Home{
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.lightning_logo{
+  width: 24rem;
+}
+.clouds_logo{
+  width:23rem;
+}
+.Footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+.cat_logo{
+  width: 23rem;
+  margin-top: 7.6rem;
+}
+.people_logo{
+  width: 23rem;
+}
+.Introduction{
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.Intro{
+  box-sizing: border-box;
+    position: absolute;
+    width: 60rem;
+    height: 31rem;
+    top: 23rem;
+    background: beige;
+    border: 19px solid #FFE645;
+    border-radius: 37px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    color: black;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.hello{
+  border-radius: 1.3rem;
+    width: 23rem;
 }
