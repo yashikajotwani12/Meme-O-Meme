@@ -15,6 +15,7 @@
     right: 0;
     box-shadow: 0 0 10px 5px rgb(0 0 0 / 30%);
     background: #ffffff1f;
+    z-index: 1;
 }
 .welcome_wrapper h4 {
     font-size: 30px;
@@ -34,6 +35,11 @@
     font-weight: bold;
     cursor: pointer;
 }
+
+.primary_button:hover {
+    background: #fdda00;
+}
+
 .button_wrapper {
     background: transparent;
     display: flex;
@@ -57,4 +63,57 @@
 .footer .people {
     position: relative;
     width: 280px;
+}
+
+.input_wrapper {
+    margin-bottom: 1rem;
+}
+
+.input_wrapper h4{
+    color: #FFD369;
+    font-family: monospace;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.input_wrapper input {
+    width: 100%;
+    background: transparent;
+    border: 2px solid #FFD369;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    color: #FFD369;
+    font-weight: bold;
+    font-family: monospace
+}
+
+.form {
+    position: relative;
+    top: -60px;
+    z-index: 1;
+}
+
+.checkbox_label {
+    cursor: pointer;
+    display: inline-flex;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+.checkbox_label h3 {
+    font-size: 15px;
+    font-family: monospace;
+    color: white;
+    margin-right: 10px;
+}
+.checkbox_label input {
+    accent-color: #FFD369;
+    width: auto;
+}
+.checkbox_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+    padding: 0 10px;
 }
