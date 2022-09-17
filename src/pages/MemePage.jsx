@@ -7,18 +7,18 @@ import leftpaw from '../images/leftpaw.png';
 function MemePage() {
   return (
     <div>
-        <Navbar />
-        <div className='welcome_container'>
-        <div className='welcome_wrapper'>
-          <h4>Some of your Favorite Memes</h4>
-          <img src="https://c.tenor.com/c1rbgR_YFkkAAAAC/baby-throw.gif" alt="" />
+      <Navbar />
+      <div className='welcome_container'>
+        <div className='welcome_wrapper' style={{ 'display': 'flex', flexDirection: 'column', alignItems: 'center' }} >
+          <h4 style={{ 'marginBottom': '10px' }}>Some of your Favorite Memes</h4>
+          <img src="https://c.tenor.com/c1rbgR_YFkkAAAAC/baby-throw.gif" style={{ 'width': '350px' }} alt="" />
           <div className="button_wrapper">
             <img className='paw' alt='leftpaw' src={leftpaw}></img>
-            <img  className='paw' alt='rightpaw' src={rightpaw}></img>
+            <img className='paw' alt='rightpaw' src={rightpaw}></img>
           </div>
         </div>
       </div>
-        <Footer/>
+      <Footer />
     </div>
   )
 }
