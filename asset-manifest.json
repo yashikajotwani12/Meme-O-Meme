@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Meme-O-Meme/static/css/main.7050beb3.css",
+    "main.js": "/Meme-O-Meme/static/js/main.be780959.js",
+    "static/media/people.png": "/Meme-O-Meme/static/media/people.d14810cbee05aa690246.png",
+    "static/media/cat.png": "/Meme-O-Meme/static/media/cat.d72feeda4ce670f97930.png",
+    "static/media/logo.png": "/Meme-O-Meme/static/media/logo.e50fc6b7338c584e3d17.png",
+    "static/media/clouds.png": "/Meme-O-Meme/static/media/clouds.34bffd66e38db14890db.png",
+    "static/media/lightning.png": "/Meme-O-Meme/static/media/lightning.c63ca173308708e4ec37.png",
+    "static/media/leftpaw.png": "/Meme-O-Meme/static/media/leftpaw.d038254207a540c392c6.png",
+    "static/media/rightpaw.png": "/Meme-O-Meme/static/media/rightpaw.8c6fe40e89f02b3b0a2c.png",
+    "index.html": "/Meme-O-Meme/index.html",
+    "main.7050beb3.css.map": "/Meme-O-Meme/static/css/main.7050beb3.css.map",
+    "main.be780959.js.map": "/Meme-O-Meme/static/js/main.be780959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7050beb3.css",
+    "static/js/main.be780959.js"
+  ]
+}
