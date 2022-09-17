@@ -2,7 +2,6 @@ import React from 'react'
 
 import lightning from '../images/lightning.png';
 import logo from '../images/logo.png';
-import clouds from '../images/clouds.png';
 import '../style/navbar.css'
 function Navbar2() {
     return (
