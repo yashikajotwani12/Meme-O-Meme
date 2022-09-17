@@ -1,0 +1,60 @@
+.welcome_container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+.welcome_wrapper {
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #fdda00;
+    position: relative;
+    top: -100px;
+    display: flex;
+    flex-direction: column;
+    right: 0;
+    box-shadow: 0 0 10px 5px rgb(0 0 0 / 30%);
+    background: #ffffff1f;
+}
+.welcome_wrapper h4 {
+    font-size: 30px;
+    font-family: monospace;
+    color: #FFD369;
+    font-weight: bolder;
+    background: transparent;
+}
+
+.primary_button {
+    background: #FFD369;
+    border-radius: 5px;
+    border: none;
+    font-size: 10px;
+    padding: 10px 20px;
+    font-family: monospace;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button_wrapper {
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 13px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    align-items: baseline;
+}
+.footer .cat {
+    width: 150px;
+    position: relative;
+    left: 10px;
+}
+.footer .people {
+    position: relative;
+    width: 280px;
+}

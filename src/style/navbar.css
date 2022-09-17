@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.lightning {
+    width: 300px;
+}
+
+.logo {
+    width: 400px;
+    position: relative;
+    top: -60px;
+}
+
+.clouds {
+    width: 300px;
+    animation: cloud 2s linear infinite;
+    position: relative;
+}
+
+@keyframes cloud {
+    0% {
+        top: -20px;
+        border: solid 3px var(--yellow);
+    }
+
+    50% {
+        top: -5px;
+        right: 0px;
+        border: solid 3px var(--neon)
+    }
+
+    100% {
+        top: -20px;
+        border: solid 3px var(--red);
+    }
+}

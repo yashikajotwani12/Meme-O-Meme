@@ -1,51 +1,12 @@
-.App {
-  background-color: #5800FF;
-  width: 100%;
-}
-
-.Home{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.lightning_logo{
-  width: 24rem;
-}
-.clouds_logo{
-  width:23rem;
-}
-.Footer{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-top: 2rem;
-}
-.cat_logo{
-  width: 23rem;
-  margin-top: 7.6rem;
-}
-.people_logo{
-  width: 23rem;
-}
-.Introduction{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.Intro{
+* {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
-    position: absolute;
-    width: 60rem;
-    height: 31rem;
-    top: 23rem;
-    background: beige;
-    border: 19px solid #FFE645;
-    border-radius: 37px;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 23px;
-    color: black;
 }
-.hello{
-  border-radius: 1.3rem;
-    width: 23rem;
+.App {
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background: #5800FF;
 }
