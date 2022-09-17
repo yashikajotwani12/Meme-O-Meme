@@ -117,3 +117,8 @@
     grid-column-gap: 20px;
     padding: 0 10px;
 }
+
+.paw{
+    width: 8rem;
+    cursor: pointer;
+}
