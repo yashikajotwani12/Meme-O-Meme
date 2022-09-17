@@ -19,6 +19,11 @@ We used ReactJS, Firebase, Figma to built this website.
 We had problem hosting the project on GitHub pages. It was built using react+firebase and that made it somewhat tricky to host it on ghpages. However, we fixed all the issues and hosted it on GitHub.
 
 ## Accomplishments that we're proud of 🏆
+
+| ![Screenshot from 2022-09-17 23-23-59](https://user-images.githubusercontent.com/77020164/190870320-edd815a7-d53a-4725-937c-db5ee7c28316.png) | ![Screenshot from 2022-09-17 23-24-36](https://user-images.githubusercontent.com/77020164/190870305-2f2454c7-e63c-4fd2-9520-6d1a2ef02206.png) | ![Screenshot from 2022-09-17 23-30-25](https://user-images.githubusercontent.com/77020164/190870410-35f32531-27aa-4756-b149-b4175e4a33cc.png)
+|-|-|-|
+| Issues | Pull Requests | GitHub Pages |
+
 We are elated to use Github for hosting it. We have used every feature of Github available.
 
 ## What we learned🕯️
