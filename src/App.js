@@ -9,8 +9,8 @@ function App() {
     <div className="App">
       <Routes>
         <Route exact path='/Meme-O-Meme' element={<HomePage />} />
-        <Route path='/Meme-O-Meme/memes' element={<MemePage />} />
-        <Route path='/Meme-O-Meme/register' element={<RegisterPage />} />
+        <Route exact path='/Meme-O-Meme/memes' element={<MemePage />} />
+        <Route exact  path='/Meme-O-Meme/register' element={<RegisterPage />} />
       </Routes>
     </div>
   );
