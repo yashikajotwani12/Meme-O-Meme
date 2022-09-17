@@ -13,7 +13,7 @@ Developers are always looking for solutions to make our lives easier, but someti
 Meme O Meme is a website solely designed for the developers who are stuck in a pike of work and get no or very less time to release their stress. This website directs them towards a short series of memes of their preference and tries to give them the relaxation they need.
 
 ## How we built it 🚧
-We used ReactJS, Tailwindcss, Figma to built this website. 
+We used ReactJS, Firebase, Figma to built this website. 
 
 ## Challenges we ran into 🩹
 We had problem hosting the project on GitHub pages. It was built using react+firebase and that made it somewhat tricky to host it on ghpages. However, we fixed all the issues and hosted it on GitHub.
