@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route exact path='/Meme-O-Meme' element={<HomePage />} />
-        <Route exact path='/Meme-O-Meme/memes' element={<MemePage />} />
-        <Route exact  path='/Meme-O-Meme/register' element={<RegisterPage />} />
+        <Route path='/' element={<HomePage />} />
+        <Route path='/memes' element={<MemePage />} />
+        <Route path='/register' element={<RegisterPage />} />
       </Routes>
     </div>
   );
