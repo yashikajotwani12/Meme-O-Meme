@@ -28,3 +28,8 @@
 - **Version Control:** Git and GitHub
 - **Hosting:** GitHub Pages
 - **Code Editor and tools**: VS Code
+
+[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/yashikajotwani12/Meme-O-Meme) 
+[![forthebadge made-with-javascript](http://ForTheBadge.com/images/badges/made-with-javascript.svg)](https://github.com/yashikajotwani12/Meme-O-Meme)
+
+
