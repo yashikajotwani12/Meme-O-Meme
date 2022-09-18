@@ -72,7 +72,7 @@ We learned to team management, and each and everyone was assigned a task that th
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## UI of the project 
+## UI of the project 😎
 
 | ![Home](https://user-images.githubusercontent.com/79780735/190871908-00e889f2-62df-4038-9ce5-2e5f88f129bf.png) | ![Form](https://user-images.githubusercontent.com/79780735/190871937-9af4ec5c-28d7-442a-a7fa-dd534cef2452.png) | ![Meme](https://user-images.githubusercontent.com/79780735/190871959-35285871-1543-4658-99b1-46fd185690c2.png) 
 |-|-|-|
@@ -80,7 +80,7 @@ We learned to team management, and each and everyone was assigned a task that th
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Working Demo
+## Working Demo 📹
 
 
 https://user-images.githubusercontent.com/77020164/190870888-fbdd62b4-fa78-4f5d-8128-4443eecab3b0.mp4
