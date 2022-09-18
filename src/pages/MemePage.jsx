@@ -14,7 +14,19 @@ const memes = [
   "https://s3.amazonaws.com/resources.mangahigh.com/blog/20-teacher-memes/meme+2+new.jpg",
   "https://media.wired.co.uk/photos/606d9e536ab54fce4fbb1e51/master/w_1600%2Cc_limit/distractedboyfriend.jpg",
   "https://img2.thejournal.ie/inline/723966/original/?width=333&version=723966",
-  "https://www.researchgate.net/publication/341738736/figure/fig8/AS:896575735861249@1590771721991/A-meme-from-the-Student-Problems-Facebook-page.png"
+  "https://www.researchgate.net/publication/341738736/figure/fig8/AS:896575735861249@1590771721991/A-meme-from-the-Student-Problems-Facebook-page.png",
+  "https://i.pinimg.com/736x/f8/53/e7/f853e77b73a477a628359a139f6aea24.jpg",
+  "https://i.pinimg.com/736x/dc/d1/b8/dcd1b8237657e01213098a9aa3db8e55.jpg",
+  "https://i.pinimg.com/originals/ee/30/28/ee30280599ae0ba5cf2cadbdbc966545.jpg",
+  "https://img.bleacherreport.net/img/slides/photos/003/404/308/soccer-meme-2576_crop_exact.jpg?w=2975&h=2048&q=85",
+  "https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2019-03/Screen%20Shot%202019-03-14%20at%2010.53.38%20AM.png",
+  "https://studocu.com/blog/wp-content/uploads/2020/09/3_90ca895bbbd2aa1037d645ca7ed92252be26305bb2cdef463cc352929c41aa62.jpg",
+  "https://i.redd.it/mx6gnwobri121.jpg",
+  "http://fansided.com/files/2016/04/harden.jpg",
+  "https://cdn.broadbandsearch.net/images/blogs/most-popular-internet-memes-in-history/ceiling-cat.jpg",
+  "https://www.finetoshine.com/wp-content/uploads/2020/08/Top-Famous-Memes-Minion-Memes-Funny-Minion-Images-With-Captions.jpg",
+  "https://i.imgflip.com/3zqb4l.jpg",
+  "https://cdn.broadbandsearch.net/images/blogs/most-popular-internet-memes-in-history/you-understand-now.jpg"
 ]
 
 function MemePage() {
@@ -29,6 +41,7 @@ function MemePage() {
     console.log(newIndex);
   }
   useEffect(()=>{
+    getRandomArbitrary();
     if(localStorage.getItem('name')) {
       setName(localStorage.getItem('name'))
     }
