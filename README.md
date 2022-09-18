@@ -48,6 +48,10 @@ We had a problem hosting the project on GitHub pages and adding configuration to
 We are elated to use Github for hosting it. We have used the feature of Github available.
 We have a team of 50% new hackers and each of them tried their best to contribute we are proud that we completed every aspect as we thought of for the project. 
 
+- [Merged PR's](https://github.com/yashikajotwani12/Meme-O-Meme/pulls?q=is%3Apr+is%3Aclosed)
+- [Issue Solved](https://github.com/yashikajotwani12/Meme-O-Meme/issues?q=is%3Aissue+is%3Aclosed)
+- [Commit History](https://github.com/yashikajotwani12/Meme-O-Meme/commits/master)
+
 | ![Screenshot from 2022-09-17 23-23-59](https://user-images.githubusercontent.com/77020164/190870320-edd815a7-d53a-4725-937c-db5ee7c28316.png) | ![Screenshot from 2022-09-17 23-24-36](https://user-images.githubusercontent.com/77020164/190870305-2f2454c7-e63c-4fd2-9520-6d1a2ef02206.png) 
 |-|-|
 | Issues | Pull Requests |
