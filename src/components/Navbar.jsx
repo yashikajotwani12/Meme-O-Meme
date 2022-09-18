@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <div className='navbar'>
         <img src={lightning}  alt= 'logo' className='lightning' />
-        <img src={logo} className='logo' alt='logo' style={{'cursor':'pointer'}} onClick={() => window.location.href = '/'} />
+        <img src={logo} className='logo' alt='logo' style={{'cursor':'pointer'}} onClick={() => window.location.href = '/Meme-O-Meme'} />
         <img src={clouds} alt='logo' className='clouds' />
     </div>
   )
