@@ -47,9 +47,11 @@ We had a problem hosting the project on GitHub pages and adding configuration to
 We are elated to use Github for hosting it. We have used the feature of Github available.
 We have a team of 50% new hackers and each of them tried their best to contribute we are proud that we completed every aspect as we thought of for the project. 
 
-| ![Screenshot from 2022-09-17 23-23-59](https://user-images.githubusercontent.com/77020164/190870320-edd815a7-d53a-4725-937c-db5ee7c28316.png) | ![Screenshot from 2022-09-17 23-24-36](https://user-images.githubusercontent.com/77020164/190870305-2f2454c7-e63c-4fd2-9520-6d1a2ef02206.png) | ![Screenshot from 2022-09-17 23-30-25](https://user-images.githubusercontent.com/77020164/190870410-35f32531-27aa-4756-b149-b4175e4a33cc.png)
-|-|-|-|
-| Issues | Pull Requests | GitHub Pages |
+| ![Screenshot from 2022-09-17 23-23-59](https://user-images.githubusercontent.com/77020164/190870320-edd815a7-d53a-4725-937c-db5ee7c28316.png) | ![Screenshot from 2022-09-17 23-24-36](https://user-images.githubusercontent.com/77020164/190870305-2f2454c7-e63c-4fd2-9520-6d1a2ef02206.png) 
+|-|-|
+| Issues | Pull Requests |
+| ![Screenshot from 2022-09-17 23-30-25](https://user-images.githubusercontent.com/77020164/190870410-35f32531-27aa-4756-b149-b4175e4a33cc.png) | ![Screenshot from 2022-09-18 10-59-11](https://user-images.githubusercontent.com/77020164/190887260-6845871e-0d99-4beb-a259-38d5f75a0734.png) |
+| GitHub Pages | Contribution Graph |
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
