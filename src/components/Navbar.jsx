@@ -7,9 +7,9 @@ import '../style/navbar.css'
 function Navbar() {
   return (
     <div className='navbar'>
-        <img src={lightning} className='lightning' />
-        <img src={logo} className='logo' />
-        <img src={clouds} className='clouds' />
+        <img src={lightning}  alt= 'logo' className='lightning' />
+        <img src={logo} className='logo' alt='logo' style={{'cursor':'pointer'}} onClick={() => window.location.href = '/'} />
+        <img src={clouds} alt='logo' className='clouds' />
     </div>
   )
 }
