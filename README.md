@@ -26,6 +26,7 @@ Developers can register themselves and allow our app to send the push notificati
 - We used ReactJS for the website.
 - We used Firebase Cloud Messaging(FCM) for the push notification. When someone visits our website, we ask them to allow the notification which gives us the token of there browser which helps FCM server to send the notification to the browser. We first register service-worker in the user's browser so that it can listen to the notification and trigger push notification in the user's browser. 
 - We used Figma to make the designs for the website.
+- We used GitHub-Pages for the deployement.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
